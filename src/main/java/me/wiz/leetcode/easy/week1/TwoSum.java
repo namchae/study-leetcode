@@ -1,4 +1,4 @@
-package me.wiz.leetcode.easy;
+package me.wiz.leetcode.easy.week1;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;

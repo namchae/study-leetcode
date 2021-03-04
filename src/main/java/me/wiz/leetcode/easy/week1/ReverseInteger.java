@@ -1,4 +1,4 @@
-package me.wiz.leetcode.easy;
+package me.wiz.leetcode.easy.week1;
 
 
 public class ReverseInteger {
